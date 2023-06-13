@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <path style="fill: rgb(170, 85, 0); stroke-opacity: 0;" d="M 0 37.5 H 300 V 190 A 10 10 0 0 1 290 200 H 10 A 10 10 0 0 1 0 190 V 37.5 Z" bx:shape="rect 0 37.5 300 162.5 0 0 10 10 1@56aa1a0b"/>
+  <path style="stroke: rgba(136, 52, 0, 0); fill: rgb(136, 51, 0);" d="M 115 0 H 185 A 15 15 0 0 1 200 15 V 37.5 H 100 V 15 A 15 15 0 0 1 115 0 Z" bx:shape="rect 100 0 100 37.5 15 15 0 0 1@a8b2d801"/>
+  <path style="stroke: rgba(136, 52, 0, 0); fill: rgb(102, 17, 0);" d="M 215 0 H 285 A 15 15 0 0 1 300 15 V 37.5 H 200 V 15 A 15 15 0 0 1 215 0 Z" bx:shape="rect 200 0 100 37.5 15 15 0 0 1@5a2fd49d"/>
+  <path style="fill: rgb(170, 85, 0);" d="M 15 0 H 85 A 15 15 0 0 1 100 15 V 37.5 H 0 V 15 A 15 15 0 0 1 15 0 Z" bx:shape="rect 0 0 100 37.5 15 15 0 0 1@420edabb"/>
+</svg>

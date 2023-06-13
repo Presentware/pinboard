@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <rect style="fill: rgb(211, 166, 117); stroke: rgba(0, 0, 0, 0);" x="0" y="0" width="256" height="256" rx="75" ry="75"/>
+  <rect x="12.919" y="111.507" width="12.403" height="48.605" style="fill: rgb(216, 216, 216); stroke: rgba(179, 179, 179, 0);" transform="matrix(0.700995, 0.713166, -0.698052, 0.716371, 167.257812, 69.612602)"/>
+  <ellipse style="fill: rgb(238, 65, 52); stroke: rgba(0, 0, 0, 0);" cx="658.082" cy="234.547" rx="54.131" ry="21.034" transform="matrix(0.690837, 0.723011, -0.712297, 0.702049, -105.506079, -557.67484)"/>
+  <ellipse style="fill: rgb(238, 65, 52); stroke: rgba(0, 0, 0, 0);" cx="658.082" cy="234.547" rx="54.131" ry="21.034" transform="matrix(0.690837, 0.723011, -0.712297, 0.702049, -168.014609, -490.221532)"/>
+  <rect x="106.991" y="33.011" width="48.719" height="61.261" style="fill: rgb(238, 65, 52); stroke: rgba(0, 0, 0, 0);" transform="matrix(0.672734, 0.739885, -0.725419, 0.688643, 108.957687, -26.230423)"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgba(0, 0, 0, 0);" d="M 66.912 190.597 L 47.846 219.035 L 76.274 199.661 L 66.912 190.597 Z"/>
+</svg>

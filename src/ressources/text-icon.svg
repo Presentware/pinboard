@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 300 400" width="300" height="400" xmlns="http://www.w3.org/2000/svg">
+  <path style="stroke-width: 3px; stroke: rgba(0, 0, 0, 0); fill: rgb(255, 223, 37);" d="M 0 0 L 0 400 L 300 400 L 300 100 L 200 0 L 0 0 Z"/>
+  <path style="stroke: rgba(0, 0, 0, 0); fill: rgb(223, 191, 5);" d="M 200 0 L 200 100 L 300 100"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(223, 191, 5); stroke-width: 10px;" d="M 25 40 L 200 40"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(223, 191, 5); stroke-width: 10px;" d="M 25 80 L 200 80"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(223, 191, 5); stroke-width: 10px;" d="M 25 120 L 275 120"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(223, 191, 5); stroke-width: 10px;" d="M 25 160 L 275 160"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(223, 191, 5); stroke-width: 10px;" d="M 25 200 L 275 200"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(223, 191, 5); stroke-width: 10px;" d="M 25 240 L 275 240"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(223, 191, 5); stroke-width: 10px;" d="M 25 280 L 275 280"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(223, 191, 5); stroke-width: 10px;" d="M 25 320 L 275 320"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(223, 191, 5); stroke-width: 10px;" d="M 25 360 L 275 360"/>
+</svg>

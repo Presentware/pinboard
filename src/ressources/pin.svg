@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2.055" y="17.737" width="1.973" height="7.732" style="fill: rgb(216, 216, 216); stroke: rgba(179, 179, 179, 0);" transform="matrix(0.708642, 0.705569, -0.705569, 0.708642, 19.354694, 6.600423)"/>
+  <ellipse style="fill: rgb(238, 65, 52); stroke: rgba(0, 0, 0, 0);" cx="658.082" cy="234.547" rx="8.607" ry="3.347" transform="matrix(0.698585, 0.715527, -0.719748, 0.694261, -269.177684, -625.038588)"/>
+  <ellipse style="fill: rgb(238, 65, 52); stroke: rgba(0, 0, 0, 0);" cx="658.082" cy="234.547" rx="8.607" ry="3.347" transform="matrix(0.698585, 0.715527, -0.719748, 0.694261, -279.228099, -614.424453)"/>
+  <rect x="17.003" y="5.256" width="7.742" height="9.753" style="fill: rgb(238, 65, 52); stroke: rgba(0, 0, 0, 0);" transform="matrix(0.680642, 0.732617, -0.732617, 0.680642, 9.980945, -8.480964)"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgba(0, 0, 0, 0);" d="M 3.221 25.638 L 0.155 30.113 L 4.726 27.064 L 3.221 25.638 Z"/>
+</svg>

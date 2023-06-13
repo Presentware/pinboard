@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 300 400" width="300" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <path style="stroke-width: 3px; stroke: rgba(0, 0, 0, 0); fill: rgb(84, 84, 84);" d="M 0 0 L 0 400 L 300 400 L 300 100 L 200 0 L 0 0 Z"/>
+  <path style="stroke: rgba(0, 0, 0, 0);" d="M 200 0 L 200 100 L 300 100"/>
+  <ellipse style="stroke: rgba(0, 0, 0, 0);" cx="150" cy="200" rx="70" ry="70"/>
+  <rect x="140.773" y="138.951" width="20" height="66.481" style="stroke: rgba(0, 0, 0, 0); fill: rgb(84, 84, 84);" transform="matrix(1, 0, 0.669372, 1, -115.230698, 26.022072)" bx:origin="0.483312 0.507209"/>
+  <rect x="-140.773" y="-138.951" width="20" height="66.481" style="stroke: rgba(0, 0, 0, 0); fill: rgb(84, 84, 84);" transform="matrix(-1, 0, -0.669372, 1, -50.729973, 303.924072)" bx:origin="0.484617 0.507209"/>
+  <rect x="140.773" y="138.951" width="20" height="66.481" style="stroke: rgba(0, 0, 0, 0);" transform="matrix(0.866025, 0.5, 0.079693, 1.200711, 96.084167, 42.773502)" bx:origin="0.483312 0.507209"/>
+  <rect x="140.773" y="138.951" width="20" height="66.481" style="stroke: rgba(0, 0, 0, 0);" transform="matrix(-0.866025, -0.5, -1.079694, 0.531339, 556.867574, 308.806826)" bx:origin="0.484617 0.507209"/>
+  <rect x="140.773" y="138.951" width="20" height="66.481" style="stroke: rgba(0, 0, 0, 0);" transform="matrix(0.866025, -0.5, 1.079694, 0.531339, -251.9375, 308.806885)" bx:origin="0.483312 0.507209"/>
+  <rect x="-140.773" y="-138.951" width="20" height="66.481" style="stroke: rgba(0, 0, 0, 0);" transform="matrix(-0.866025, 0.5, -0.079694, 1.200712, -57.12732, 517.22663)" bx:origin="0.484617 0.507209"/>
+  <rect x="140.773" y="138.951" width="20" height="66.481" style="stroke: rgba(0, 0, 0, 0);" transform="matrix(0.866025, -0.5, 1.079694, 0.531339, -251.9375, 58.806892)" bx:origin="7.131 -0.869"/>
+  <rect x="-140.773" y="-138.951" width="20" height="66.481" style="stroke: rgba(0, 0, 0, 0);" transform="matrix(-0.866025, 0.5, -0.079694, 1.200712, -57.12732, 267.226638)" bx:origin="-0.038 -0.869"/>
+  <rect x="140.773" y="138.951" width="20" height="66.481" style="stroke: rgba(0, 0, 0, 0);" transform="matrix(0.866025, 0.5, 0.079693, 1.200711, 150.253738, -77.226501)" bx:origin="0.483312 0.507209"/>
+  <rect x="140.773" y="138.951" width="20" height="66.481" style="stroke: rgba(0, 0, 0, 0);" transform="matrix(-0.866025, -0.5, -1.079694, 0.531339, 611.037163, 188.806826)" bx:origin="0.484617 0.507209"/>
+  <rect x="140.773" y="138.951" width="20" height="66.481" style="stroke: rgba(0, 0, 0, 0);" transform="matrix(0.866025, -0.5, 1.079694, 0.531339, -311.9375, 188.8069)" bx:origin="0.483312 0.507209"/>
+  <rect x="140.773" y="138.951" width="20" height="66.481" style="stroke: rgba(0, 0, 0, 0);" transform="matrix(-0.866025, 0.5, -0.079694, 1.200712, 148.845696, -77.226638)" bx:origin="0.484617 0.507209"/>
+</svg>
